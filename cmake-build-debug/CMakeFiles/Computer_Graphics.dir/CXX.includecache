@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Erwin/Desktop/Computer Science/Computer Graphics/Exercises.cpp
+list
+-
+iostream
+-
+cmath
+-
+Exercises.h
+C:/Users/Erwin/Desktop/Computer Science/Computer Graphics/Exercises.h
+
+C:/Users/Erwin/Desktop/Computer Science/Computer Graphics/Exercises.h
+list
+-
+set
+-
+
